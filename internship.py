@@ -5,9 +5,8 @@ import numpy as np
 import os
 from glob import glob
 
-folder = "C:/Users/donal/Documents/Data File/COMM_3/*/"
-file = "C:/Users/donal/Documents/2020-06-13.csv"
-file = "C:/Users/donal/Documents/Data File/COMM_3/06-2019/2019-06-13.csv"
+folder = ""
+file = ""
 
 x = ""
 y = 10000000000000000000000
