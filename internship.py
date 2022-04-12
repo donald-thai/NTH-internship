@@ -40,7 +40,7 @@ def write(s, r, value, index):
 
 
 chunksize = 400000
-folder = "C:/Users/donal/Documents/Data File/*/*/"
+folder = "";
 x = glob(folder)
 for dir in x:  # Goes through COMM folders
     for file in Path(dir).glob('*.csv'):  # Goes through csv files
